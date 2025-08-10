@@ -4,7 +4,7 @@ This project is a simple digit recognition model using the MNIST dataset.
 ## DATASET
 The MNIST dataset contains 70,000 grayscale images of handwritten digits (0-9),each of size 28*28 pixels.
 ## REQUIREMENTS
-1.Python 3,
+1.Python3,
 2.torch,
 3.torchvision
 ## Results
